@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeExample", "..\Day3Examples\AttributeExample\AttributeExample.csproj", "{05689F1B-DFBC-4170-A594-657570D8C2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionExample", "ReflectionExample\ReflectionExample.csproj", "{CAEB5047-1085-49C0-886B-43B559A597A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOExample", "ADOExample\ADOExample.csproj", "{64AC8506-5914-4601-917A-28F5B64D8E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05689F1B-DFBC-4170-A594-657570D8C2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05689F1B-DFBC-4170-A594-657570D8C2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05689F1B-DFBC-4170-A594-657570D8C2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05689F1B-DFBC-4170-A594-657570D8C2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEB5047-1085-49C0-886B-43B559A597A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEB5047-1085-49C0-886B-43B559A597A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEB5047-1085-49C0-886B-43B559A597A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEB5047-1085-49C0-886B-43B559A597A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AC8506-5914-4601-917A-28F5B64D8E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AC8506-5914-4601-917A-28F5B64D8E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AC8506-5914-4601-917A-28F5B64D8E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AC8506-5914-4601-917A-28F5B64D8E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
